@@ -2,7 +2,7 @@
 
 Soy Lucia, una desarrolladora Full Stack Java y docente con base en Argentina.
 
-😊 Sobre mí:Desde muy joven, he tenido una fascinación por la intersección entre el arte y la tecnología.
+😊 Sobre mí: Desde muy joven, he tenido una fascinación por la intersección entre el arte y la tecnología.
 Esta pasión me llevó a explorar el mundo del desarrollo de software, donde disfruto fusionando mi formación
 en artes visuales con mis conocimientos para programar.
 
